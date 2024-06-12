@@ -5,5 +5,5 @@ export interface Client{
     lakcim: string,
     fozes_mennyiseg: number,
     fozes_ideje: number,
-    feldolgozott_cefre: number 
+    feldolgozott_cefre: number
 }
